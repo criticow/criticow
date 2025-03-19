@@ -5,8 +5,8 @@
 - 🌱 Learning new tech and improving performance optimizations.
 - 💬 Ask me about anything related to programming!
 
-LinkedIn: https://www.linkedin.com/in/iury-ferreira-11248522b/
-YouTube: https://www.youtube.com/@waddahex
+LinkedIn: https://www.linkedin.com/in/iury-ferreira-11248522b/  
+YouTube: https://www.youtube.com/@waddahex  
 Email: iuryferreira.dev@gmail.com
 
 ## Projects of Interest
