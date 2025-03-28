@@ -6,15 +6,6 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, jogos e inovação. Te
 - 🔹 Foco em desenvolvimento web, aplicações robustas e engenharia de jogos
 - 🔹 Sempre aprendendo e aprimorando performance e boas práticas de código
 
-💬 Se precisar de ajuda com programação, estou sempre disponível para compartilhar conhecimento!
-
-📌 Projetos de Destaque:
-- ✅ Findemo - Aplicação para controle de gastos (Spring + Angular + Postgres)
-- ✅ Ngyn - Engine de jogos 2D em C++ desenvolvida ao vivo no YouTube
-- ✅ Bibliotecas para Angular - Tradução e ícones personalizados
-
-📢 Me acompanhe nas redes e conheça meus projetos!
-
 **LinkedIn:** [https://www.linkedin.com/in/iury-ferreira-11248522b/](https://www.linkedin.com/in/iury-ferreira-11248522b/)  
 **YouTube:** [https://www.youtube.com/@waddahex](https://www.youtube.com/@waddahex)  
 **Email:** iuryferreira.dev@gmail.com 
