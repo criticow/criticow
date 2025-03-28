@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor fullstack apaixonado por tecnologia, jogos e inovação. Tenho experiência com desenvolvimento web e de jogos, sempre buscando novas formas de otimizar desempenho e criar soluções eficientes. Atualmente, estou envolvido em projetos que vão desde bibliotecas para Angular até engines de jogos em C++, muitos deles sendo desenvolvidos ao vivo no YouTube.
 
-- 🔹 Especializado em Angular, Java, C#, Python, C++ e Node.js
+- 🔹 Especializado em C++, Angular, Java, C#
 - 🔹 Foco em desenvolvimento web, aplicações robustas e engenharia de jogos
 - 🔹 Sempre aprendendo e aprimorando performance e boas práticas de código
 
