@@ -2,16 +2,16 @@
 
 Sou um desenvolvedor fullstack apaixonado por tecnologia, jogos e inovação. Tenho experiência com desenvolvimento web e de jogos, sempre buscando novas formas de otimizar desempenho e criar soluções eficientes. Atualmente, estou envolvido em projetos que vão desde bibliotecas para Angular até engines de jogos em C++, muitos deles sendo desenvolvidos ao vivo no YouTube.
 
-🔹 Especializado em Angular, Java, C#, Python, C++ e Node.js
-🔹 Foco em desenvolvimento web, aplicações robustas e engenharia de jogos
-🔹 Sempre aprendendo e aprimorando performance e boas práticas de código
+- 🔹 Especializado em Angular, Java, C#, Python, C++ e Node.js
+- 🔹 Foco em desenvolvimento web, aplicações robustas e engenharia de jogos
+- 🔹 Sempre aprendendo e aprimorando performance e boas práticas de código
 
 💬 Se precisar de ajuda com programação, estou sempre disponível para compartilhar conhecimento!
 
 📌 Projetos de Destaque:
-✅ Findemo - Aplicação para controle de gastos (Spring + Angular + Postgres)
-✅ Ngyn - Engine de jogos 2D em C++ desenvolvida ao vivo no YouTube
-✅ Bibliotecas para Angular - Tradução e ícones personalizados
+- ✅ Findemo - Aplicação para controle de gastos (Spring + Angular + Postgres)
+- ✅ Ngyn - Engine de jogos 2D em C++ desenvolvida ao vivo no YouTube
+- ✅ Bibliotecas para Angular - Tradução e ícones personalizados
 
 📢 Me acompanhe nas redes e conheça meus projetos!
 
