@@ -15,9 +15,9 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, jogos e inovação. Te
 
 📢 Me acompanhe nas redes e conheça meus projetos!
 
-🔗 LinkedIn: linkedin.com/in/iury-ferreira-11248522b
-📺 YouTube: youtube.com/@waddahex
-📧 Email: iuryferreira.dev@gmail.com
+**LinkedIn:** [https://www.linkedin.com/in/iury-ferreira-11248522b/](https://www.linkedin.com/in/iury-ferreira-11248522b/)  
+**YouTube:** [https://www.youtube.com/@waddahex](https://www.youtube.com/@waddahex)  
+**Email:** iuryferreira.dev@gmail.com 
 
 ---
 
