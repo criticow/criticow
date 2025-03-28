@@ -1,12 +1,23 @@
-🚀 **Desenvolvedor de Software Fullstack** | Angular | Java | C# | Python | C++ | Node.js | Ionic  
+🚀 Desenvolvedor de Software Fullstack | Angular | Java | C# | Python | C++ | Node.js | Ionic
 
-- 🔭 Trabalhando em projetos empolgantes de desenvolvimento web e de jogos.  
-- 🌱 Aprendendo novas tecnologias e aprimorando otimizações de desempenho.  
-- 💬 Pergunte-me qualquer coisa sobre programação!  
+Sou um desenvolvedor fullstack apaixonado por tecnologia, jogos e inovação. Tenho experiência com desenvolvimento web e de jogos, sempre buscando novas formas de otimizar desempenho e criar soluções eficientes. Atualmente, estou envolvido em projetos que vão desde bibliotecas para Angular até engines de jogos em C++, muitos deles sendo desenvolvidos ao vivo no YouTube.
 
-**LinkedIn:** [https://www.linkedin.com/in/iury-ferreira-11248522b/](https://www.linkedin.com/in/iury-ferreira-11248522b/)  
-**YouTube:** [https://www.youtube.com/@waddahex](https://www.youtube.com/@waddahex)  
-**Email:** iuryferreira.dev@gmail.com  
+🔹 Especializado em Angular, Java, C#, Python, C++ e Node.js
+🔹 Foco em desenvolvimento web, aplicações robustas e engenharia de jogos
+🔹 Sempre aprendendo e aprimorando performance e boas práticas de código
+
+💬 Se precisar de ajuda com programação, estou sempre disponível para compartilhar conhecimento!
+
+📌 Projetos de Destaque:
+✅ Findemo - Aplicação para controle de gastos (Spring + Angular + Postgres)
+✅ Ngyn - Engine de jogos 2D em C++ desenvolvida ao vivo no YouTube
+✅ Bibliotecas para Angular - Tradução e ícones personalizados
+
+📢 Me acompanhe nas redes e conheça meus projetos!
+
+🔗 LinkedIn: linkedin.com/in/iury-ferreira-11248522b
+📺 YouTube: youtube.com/@waddahex
+📧 Email: iuryferreira.dev@gmail.com
 
 ---
 
