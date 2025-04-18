@@ -27,6 +27,7 @@ Aqui estão alguns projetos interessantes.
 
 ### 🏎️ C++  
 
+- 📱 Jogo para Android/Desktop em Vulkan C++ desenvolvido ao vivo no YouTube [GitHub](https://github.com/criticow/android-vulkan) | [Playlist](https://www.youtube.com/playlist?list=PLXV0CJ0naBZdlVLigBuADXtfO7HJqGQuB)
 - 🎮 Engine de jogos em C++ desenvolvida ao vivo no YouTube [GitHub](https://github.com/waddahex/ngyn) | [Playlist](https://youtube.com/playlist?list=PLXV0CJ0naBZd1UdrJX4OsPFc-NMXTRiYi&si=56siblnHcnpO39M2)  
 - 🐦 Clone do Flappy Bird em C++ [GitHub](https://github.com/criticow/ngyn-flappy) | [Playlist](https://www.youtube.com/playlist?list=PLXV0CJ0naBZfQ2Nbk5zmpb6Gd_kJtvrn3)  
 - 🤖 Bot complexo em C++ usando OpenCV [GitHub](https://github.com/criticow/corahbot)  
